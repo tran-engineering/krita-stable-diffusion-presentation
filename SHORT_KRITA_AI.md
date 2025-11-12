@@ -164,14 +164,51 @@ Flux: `Sunny, summer, beach`
 
 TODO Image
 
+
+<div style="display: flex; align-items: center;">
+<img src="demo4_pre.png" style="width: 40%">
+⇨
+<img src="demo4.png" style="width: 40%">
+</div>
+
 ---
 
 ## Demo 5: Poses
 
-TODO Image
+SDXL: `one Cat, Lederhosen, holding a beer, parish fair`
+
+<div style="display: flex; align-items: center;">
+<img src="demo5_pre.png" style="width: 40%">
+⇨
+<img src="demo5.png" style="width: 40%">
+</div>
+
 
 ---
 
-## Demo 6: Reference Images
+## Demo 6: The next generation: Flux, Qwen Image
 
-TODO Image
+Understands prompts for editing:
+
+`Keep background as is, remove the cat, add a beard to the guy`
+
+`colorize this image`
+
+<div style="display: flex; align-items: center;">
+<img src="demo6_pre.png" style="width: 40%">
+⇨
+<img src="demo6.png" style="width: 40%">
+</div>
+
+
+---
+
+## No GPU?
+
+Rent a server: [runpod.io](runpod.io)
+
+---
+
+# Thanks!
+
+![alt text](image-1.png)
