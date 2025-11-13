@@ -2,7 +2,7 @@
 
 Khôi Tran / kt@compile.ch
 
-TODO make a image
+![alt text](image-3.png)
 
 ---
 
@@ -24,8 +24,6 @@ One buzzword: Stable Diffusion!
 
 ## Evolution of Models
 
-From SD to cutting-edge alternatives
-
 ### Stable Diffusion 1.5 (SD)
 - The classic - 512x512 images
 - Fast, efficient, runs on modest hardware
@@ -35,6 +33,10 @@ From SD to cutting-edge alternatives
 - Higher resolution - 1024x1024 native
 - Better prompt understanding and detail
 - Requires more VRAM (~6-8GB+)
+
+---
+
+## Advanced models
 
 ### Flux
 - New architecture from Black Forest Labs (original SD creators)
@@ -70,6 +72,8 @@ Node-based workflow for Stable Diffusion
 - See exactly what each step does
 - Save and share workflows as JSON files
 
+![alt text](comfy.png)
+
 ---
 
 ## Accessibility Level 2: Krita AI
@@ -85,8 +89,8 @@ AI generation meets professional digital painting
 ---
 
 ## Why Krita + AI?
-
-The best of both worlds
+<div style="font-size: 80%">
+The best of both worlds!
 
 ### Traditional Digital Art
 - Professional-grade painting tools
@@ -100,6 +104,7 @@ The best of both worlds
 - Speed up repetitive tasks
 
 **Result**: Artist stays in control, AI handles the grunt work
+</div>
 
 ---
 
@@ -211,4 +216,4 @@ Rent a server: [runpod.io](runpod.io)
 
 # Thanks!
 
-![alt text](image-1.png)
+![alt text](thanks.png)
